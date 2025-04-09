@@ -1,0 +1,8 @@
+function validarEnvios(valor){
+    alert(`Pedido seleccionado: ${valor}`);
+// return false;
+};
+function buscarProducto(valor){
+    alert(`Producto a buscar: ${valor}`);
+// return false;
+};
