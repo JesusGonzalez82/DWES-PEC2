@@ -5,7 +5,8 @@
 	<meta charset="UTF-8">
 	<script type="text/javascript" src="js/cargarDatos.js"></script>
 	<script type="text/javascript" src="js/sesion.js"></script>
-	<script type="text/javascript" src="js/examen.js"></script>
+	<!-- <script type="text/javascript" src="js/examen.js"></script> -->
+	<script type="text/javascript" src="js/pec2_2.js"></script>
 </head>
 <body>
 	<section id="login">
